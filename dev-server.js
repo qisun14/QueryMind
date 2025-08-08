@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Load environment variables
-dotenv.config({ path: '../.env' });
+dotenv.config({ path: '.env' });
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 

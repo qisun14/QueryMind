@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
 
-dotenv.config({ path: '../../.env' });
+dotenv.config({ path: '../.env' });
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
