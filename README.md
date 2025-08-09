@@ -2,6 +2,8 @@
 
 A voice-enabled AI chat application designed to help students learn through interactive conversations. The app uses OpenAI's real-time agents to provide a dynamic study experience.
 
+![Socrates Chat UI](QueryMind_UI.png)
+
 ## 📋 Prerequisites
 
 Before you begin, you'll need to install some software on your computer:
